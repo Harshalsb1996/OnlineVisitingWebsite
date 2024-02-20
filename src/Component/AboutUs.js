@@ -23,7 +23,7 @@ function AboutUs() {
                     <p>We are dedicated to providing a supportive and inclusive community where students from diverse backgrounds can thrive and succeed.</p>
                     <p>With state-of-the-art facilities and industry partnerships, ITSC offers ample opportunities for internships, research projects, and career development initiatives.</p>
                     <p>Our graduates emerge as well-rounded professionals poised to make significant contributions to the technology sector and drive innovation forward.</p>
-                    <p>Whether you are a prospective student, a parent, or an industry partner, we invite you to explore our website and learn more about the exciting opportunities available at InfinityTech School of Computer Engineering. Join us as we shape the future of technology together.</p>
+                    <p>Whether you are a prospective student, a parent, or an industry partner, we invite you to explore our website and learn more about the exciting opportunities available at InfinityTech School of Computer Engineering (ITSC). Join us as we shape the future of technology together.</p>
                 </div>
 
                 <div className="Aboutcontainer blue-container">
