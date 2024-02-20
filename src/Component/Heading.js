@@ -7,7 +7,7 @@ function Heading(){
  return(
     <>
     <div class="heading">
-     <h3> Infinity Tech College of Computer Engineering (ITSC)</h3>
+     <h3> Infinity Tech School of Computer Engineering (ITSC)</h3>
     <h4> Accrecited by NAAC with A Grade in 2023 </h4>
     <h5>Established in 1994</h5> 
     </div>
