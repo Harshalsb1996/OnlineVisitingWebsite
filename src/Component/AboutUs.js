@@ -23,14 +23,14 @@ function AboutUs() {
                     <p>We are dedicated to providing a supportive and inclusive community where students from diverse backgrounds can thrive and succeed.</p>
                     <p>With state-of-the-art facilities and industry partnerships, ITSC offers ample opportunities for internships, research projects, and career development initiatives.</p>
                     <p>Our graduates emerge as well-rounded professionals poised to make significant contributions to the technology sector and drive innovation forward.</p>
-                    <p>Whether you are a prospective student, a parent, or an industry partner, we invite you to explore our website and learn more about the exciting opportunities available at InfinityTech College of Computer Engineering. Join us as we shape the future of technology together.</p>
+                    <p>Whether you are a prospective student, a parent, or an industry partner, we invite you to explore our website and learn more about the exciting opportunities available at InfinityTech School of Computer Engineering. Join us as we shape the future of technology together.</p>
                 </div>
 
                 <div className="Aboutcontainer blue-container">
                     <div className="Aboutright-container">
                         <h2>VISION</h2>
                         <hr />
-                        <p>To serve and have a transformative impact on society by constantly pursuing excellence in technical education, innovation, and entrepreneurship for human development with strong ethical values.<br />At <b>InfinityTech College of Computer Engineering (ITSC)</b>, our Computer and IT Department envisions a future where technology empowers individuals and transforms communities. We strive to be at the forefront of innovation, fostering a dynamic learning environment that prepares students to excel in a rapidly evolving digital landscape.</p>
+                        <p>To serve and have a transformative impact on society by constantly pursuing excellence in technical education, innovation, and entrepreneurship for human development with strong ethical values.<br />At <b>InfinityTech School of Computer Engineering (ITSC)</b>, our Computer and IT Department envisions a future where technology empowers individuals and transforms communities. We strive to be at the forefront of innovation, fostering a dynamic learning environment that prepares students to excel in a rapidly evolving digital landscape.</p>
                     </div>
                 </div>
 
